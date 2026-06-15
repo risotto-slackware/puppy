@@ -118,4 +118,4 @@ Contributions are welcome. Suggested next features:
 
 ## License
 
-Include a `LICENSE` file (MIT or Apache-2.0 recommended).
+u can see license in one of files
